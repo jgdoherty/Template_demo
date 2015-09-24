@@ -21,7 +21,7 @@ function($routeProvider){
 
 function Basicontroller($scope){
 	
-$scope.title = 'this is the title';
+$scope.title = 'This is the title';
 $scope.body = 'Welcome...';
 
 }
