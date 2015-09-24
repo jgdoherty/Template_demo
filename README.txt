@@ -1,0 +1,1 @@
+Must be run under localhost in XAMPP server and palced in a folder named "Lab" in htdocs
